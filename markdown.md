@@ -52,6 +52,6 @@ To print message in the console, use `console.log('your message')` and..
 console.log('your message')
 ```
 <!-- Todo List (Github flavored markdown) -->
-- [] seach the framelayout
+- [ ] seach the framelayout
 
 
